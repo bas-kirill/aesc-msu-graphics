@@ -1,0 +1,10 @@
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.Properties.Resources.resources
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.GenerateResource.cache
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\HelloApp\HelloApp\obj\Debug\HelloApp.Form1.resources
